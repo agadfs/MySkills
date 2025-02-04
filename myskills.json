@@ -1,0 +1,17 @@
+{
+  "skills": ["JavaScript", "React", "Node.js", "Next.js", "Three.js"],
+  "projects": [
+    {
+      "name": "Floor Planner",
+      "description": "A 3D floor planning tool built with Three.js.",
+      "repo": "https://github.com/yourusername/floor-planner",
+      "demo": "https://yourportfolio.com/floor-planner"
+    },
+    {
+      "name": "AMOS Parser",
+      "description": "A parser that converts AMOS Basic to JavaScript.",
+      "repo": "https://github.com/yourusername/amos-parser",
+      "demo": "https://yourportfolio.com/amos-parser"
+    }
+  ]
+}
