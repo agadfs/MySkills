@@ -13,5 +13,12 @@
       "repo": "https://github.com/yourusername/amos-parser",
       "demo": "https://yourportfolio.com/amos-parser"
     }
-  ]
+  ],
+  "objects":[
+    {
+      "model":"Office_Chair.glb",
+      "id":1,
+      "position":[0,-4,1],
+      "scale":1.5,
+    },]
 }
